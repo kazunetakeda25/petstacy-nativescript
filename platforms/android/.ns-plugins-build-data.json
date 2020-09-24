@@ -1,0 +1,12 @@
+{
+	"nativescript-barcodescanner": {
+		"/home/idan/Sites/petstacy/node_modules/nativescript-barcodescanner/platforms/android/nativescript_barcodescanner.aar": "72cb95a6842d68b7f41d8e992000e770242494c5",
+		"/home/idan/Sites/petstacy/node_modules/nativescript-barcodescanner/platforms/android/barcodescanner-release-2.1.6.aar": "03bb6a9683c3ee6b620304f321ea48e5de071ae3"
+	},
+	"nativescript-fancyalert": {
+		"/home/idan/Sites/petstacy/node_modules/nativescript-fancyalert/platforms/android/include.gradle": "4177fc8187dc055a374e178005957f1c932606a9"
+	},
+	"tns-core-modules-widgets": {
+		"/home/idan/Sites/petstacy/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "3ccd997e57128144d7d598fee13ec8f2c95f3834"
+	}
+}
