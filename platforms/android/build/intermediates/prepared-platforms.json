@@ -1,0 +1,12 @@
+{
+    "nativescript-barcodescanner": true,
+    "nativescript-checkbox": true,
+    "nativescript-fancyalert": true,
+    "nativescript-localstorage": true,
+    "nativescript-sqlite": true,
+    "nativescript-theme-core": true,
+    "nativescript-vue": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true,
+    "tslib": true
+}

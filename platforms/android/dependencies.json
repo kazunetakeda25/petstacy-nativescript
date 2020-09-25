@@ -1,0 +1,38 @@
+[
+    {
+        "name": "nativescript-barcodescanner",
+        "directory": "../../node_modules/nativescript-barcodescanner"
+    },
+    {
+        "name": "nativescript-checkbox",
+        "directory": "../../node_modules/nativescript-checkbox"
+    },
+    {
+        "name": "nativescript-fancyalert",
+        "directory": "../../node_modules/nativescript-fancyalert"
+    },
+    {
+        "name": "nativescript-localstorage",
+        "directory": "../../node_modules/nativescript-localstorage"
+    },
+    {
+        "name": "nativescript-sqlite",
+        "directory": "../../node_modules/nativescript-sqlite"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "../../node_modules/nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-vue",
+        "directory": "../../node_modules/nativescript-vue"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    }
+]
