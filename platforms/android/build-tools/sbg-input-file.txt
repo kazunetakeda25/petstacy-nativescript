@@ -1,0 +1,1 @@
+/home/idan/Sites/petstacy/platforms/android/app/src/main/assets/app
